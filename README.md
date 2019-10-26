@@ -4,6 +4,6 @@
 
   [http://github-book.github.io/first-pr/](http://github-book.github.io/first-pr/)
 
-Pull Requestをマージする人へ
+Pull Requestをマージする人へ tara baccha rocks
 
   [Gitの競合（コンフリクト）を解決する手順](http://hiroki.jp/2012/07/01/4558/)
